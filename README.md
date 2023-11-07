@@ -1,3 +1,2 @@
 # Dostin-Website
-Welcome to my Cv Website in English.
-View in Desktop
+Welcome to my Cv Website in English, View in your Pc.
